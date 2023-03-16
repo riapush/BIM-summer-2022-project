@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+CNN/
+.idea/
+__pycache__/
+catboost_info/
+venv/
+Scripts/
 .Python
 build/
 develop-eggs/
@@ -150,3 +156,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+*.xlsx
+*.csv
+*.json
